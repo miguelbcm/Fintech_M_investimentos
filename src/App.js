@@ -6,6 +6,8 @@ import Plataformas from './Componentes/Plataformas'
 import Acessorias from './Componentes/Acessorias'
 import Investimento from './Componentes/Investimento'
 import Footer from './Componentes/Footer'
+import Logo from './imagens/logo_branco.png'
+import Seta from './imagens/seta.png'
 
 
 function App() {
