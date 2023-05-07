@@ -1,5 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+
+
 .fundo_plataformas{
     width: 100%;
-    height: 987px;
+    height: auto;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), #3D3D3D;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titulo_plataforma{
+    padding-top: 50px;
+    color: #fff;
+}
+
+.subtitulo_plataformas{
+    margin-top: 30px;
+    color: #fff;
+    font-size: 17px;
+}
+
+.conteudo_plataforma{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    
+}
+
+.caixas_traders1{
+    width: 340px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+
+.caixa_trader1{
+    width: 350px;
+    height: 250px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #FFFFFF;
+    margin-top: 100px;
+    margin-left: 15%;
+    border-radius: 20px;
+
+}
+
+.titulo_trader1{
+    margin-top: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto_trader1{
+    margin-top: 20px;
+}
+
+.logo_pequeno{
+    margin-top: 17px;
+}
+
+.caixa_trader2{
+    width: 350px;
+    height: 250px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #ffffff;
+    margin-top: 60px;
+    margin-left: 15%;
+    border-radius: 20px;
+}
+
+.celular{
+    width: 340px;
+    height: 570px;
+    margin-left: 12%;
+    margin-top: 60px;
+    margin-right: 8%;
+}
+
+
+.caixas_traders2{
+    width: 340px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.caixa_trader3{
+    width: 350px;
+    height: 250px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #FFFFFF;
+    margin-top: 100px;
+    border-radius: 20px;
+    
+}
+
+.caixa_trader4{
+    width: 350px;
+    height: 250px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #ffffff;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+
+.botoes{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    padding-bottom: 40px;
+    
+}
+
+.ver_todas{
+    margin-left: 29%;
+    font-size: 16px;
+    width: 250px;
+    color: #000;
+    background-color: #E0AD00;
+    border-radius: 10px;
+}
+
+.ver_todas:hover{
+    font-weight: 900;
+    background-color: #ffc403;
+    
+    
+}
+
+.abra_sua{
+    margin-left: 2.5%;
+    font-size: 16px;
+    width: 250px;
+    color: #000;
+    background-color: #E0AD00;
+    border-radius: 10px;
+}
+
+.abra_sua:hover{
+    font-weight: 900;
+    background-color: #ffc403;
 }

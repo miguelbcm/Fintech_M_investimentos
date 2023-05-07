@@ -8,6 +8,9 @@ import Investimento from './Componentes/Investimento'
 import Footer from './Componentes/Footer'
 import Logo from './imagens/logo_branco.png'
 import Seta from './imagens/seta.png'
+import Celular from './imagens/celular.png'
+import Logo_pequeno from './imagens/logo_pequeno.png'
+import No_celular from './imagens/no_celular.png'
 
 
 function App() {

@@ -1,5 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+
 .fundo_acessorias{
     width: 100%;
-    height: 573px;
+    height: auto;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), #3D3D3D;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+
+.acessoria_textos{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo_acessoria{
+    color: #fff;
+    text-align: justify;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 20%;
+}
+
+.texto_acessoria{
+    color: #fff;
+    text-align: justify;
+    margin-left: 50px;;
+    margin-top: 40px;
+}
+
+.exclusiva{
+    width: 300px;
+    color: #000000;
+    background-color: #E0AD00;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+
+.exclusiva:hover{
+    background-color: #ffc400;
+    font-weight: 600;
+}
+
+.ola{
+    color: #000000;
+    margin-top: 21%;
+    background-color: #d9d9d9;
+    width: 230px;
+    height: 40px;
+    margin-top: 70px;
+    padding-top: 20px;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+
+
+.reuniao{
+    color: #000000;
+    text-align: justify;
+    background-color: #d9d9d9;
+    margin-top: 40px;
+    width: 330px;
+    height: 90px;
+    margin-left: 13.3%;
+    border-radius: 10px;
+    padding-left: 35px;
+    padding-top: 10px;
+    
+}
+
+.no_celular{
+    width: 450px;
+    height: 488px;
+    margin-top: 5%;
+    margin-left: -20px;
+    
 }
