@@ -14,6 +14,7 @@ import No_celular from './imagens/no_celular.png'
 import Digital from './imagens/digital.png'
 import Demand from './imagens/on_demand.png'
 import Exclusiva from './imagens/exclusiva_in.png'
+import Icones from './imagens/icones_footer.png'
 
 
 function App() {

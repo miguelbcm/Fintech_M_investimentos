@@ -10,9 +10,107 @@
 }
 
 .logo_footer{
-    width: 210px;
-    height: 110px;
-    margin-top: 3.8%;
-    margin-left: 2%;
+    width: 200px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 3.8%;
     margin-right: 2%;
+}
+
+.footer_investimentos{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    text-align: justify;
+}
+
+.titulo_footer1{
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+    
+    
+}
+
+.texto_footer1{
+    color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+
+
+.footer_empresa{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 35px;
+}
+
+.titulo_footer2{
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+}
+
+.texto_footer2{
+    color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.footer_plataformas{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 35px;
+}
+
+.titulo_footer3{
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+}
+
+.texto_footer3{
+    color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.footer_duvidas{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 35px;
+}
+
+.titulo_footer4{
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+}
+
+.texto_footer4{
+    color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.titulo_footer5{
+    color: #fff;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.icones_footer{
+    width: 110px;
+    height: 125px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
