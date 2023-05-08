@@ -38,10 +38,12 @@
     margin-left: 1.8%;
     border-radius: 10px;
     font-weight: 900;
+    cursor: pointer;
+    
 }
 
 .caixa1:hover{
-    background-color: #E0AD00 ;
+    background-color: #f8983e ;
     transition: 1s;
     
 }
@@ -61,10 +63,11 @@
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #FFFFFF;
     border-radius: 10px;
     font-weight: 900;
+    cursor: pointer;
 }
 
 .caixa2:hover{
-    background-color: #E0AD00 ;
+    background-color: #f8983e ;
     transition: 1s;
     
 }
@@ -84,10 +87,11 @@
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #FFFFFF;
     border-radius: 10px;
     font-weight: 900;
+    cursor: pointer;
 }
 
 .caixa3:hover{
-    background-color: #E0AD00 ;
+    background-color: #f8983e ;
     transition: 1s;
     
 }
@@ -107,10 +111,11 @@
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #FFFFFF;
     border-radius: 10px;
     font-weight: 900;
+    cursor: pointer;
 }
 
 .caixa4:hover{
-    background-color: #E0AD00 ;
+    background-color: #f8983e ;
     transition: 1s;
     
 }

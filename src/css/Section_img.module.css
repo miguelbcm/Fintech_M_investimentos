@@ -37,12 +37,7 @@ section{
     text-align: left;
     margin-left: 2%;
     font-size: 18px;
-    color: #fff; 
-    font-weight: 600;
     margin-top: 60px;
-}
-
-.acesse_section:hover{
     width: 330px;
     height: auto;
     background-color: #E0AD00;
@@ -50,5 +45,9 @@ section{
     text-align: center;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.acesse_section:hover{
+    background-color: #ff7b00;
     transition: 1s;
 }

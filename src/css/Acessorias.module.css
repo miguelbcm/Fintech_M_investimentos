@@ -37,12 +37,14 @@
     border-radius: 10px;
     margin-left: 50px;
     margin-top: 40px;
+    cursor: pointer;
     
 }
 
 .exclusiva:hover{
-    background-color: #ffc400;
-    font-weight: 600;
+    background-color: #ff7b00;
+    transition: 1.3s;
+    
 }
 
 .ola{
@@ -55,6 +57,12 @@
     padding-top: 20px;
     margin-left: 50%;
     border-radius: 10px;
+    cursor: pointer;
+}
+
+.ola:hover{
+    background-color: #ff7b00;
+    transition: 1s;
 }
 
 
@@ -69,7 +77,13 @@
     border-radius: 10px;
     padding-left: 35px;
     padding-top: 10px;
+    cursor: pointer;
     
+}
+
+.reuniao:hover{
+    background-color: #ff7b00;
+    transition: 1s;
 }
 
 .no_celular{

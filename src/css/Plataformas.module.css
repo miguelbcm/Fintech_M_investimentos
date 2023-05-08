@@ -125,11 +125,12 @@
     color: #000;
     background-color: #E0AD00;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .ver_todas:hover{
-    font-weight: 900;
-    background-color: #ffc403;
+    background-color: #ff7b00;
+    transition: 1s;
     
     
 }
@@ -141,9 +142,10 @@
     color: #000;
     background-color: #E0AD00;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .abra_sua:hover{
-    font-weight: 900;
-    background-color: #ffc403;
+    background-color: #ff7b00;
+    transition: 1s;
 }
