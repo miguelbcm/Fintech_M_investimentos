@@ -1,4 +1,7 @@
 import style from '../css/Investimento.module.css'
+import Digital from '../imagens/digital.png'
+import Demand from '../imagens/on_demand.png'
+import Exclusiva from '../imagens/exclusiva_in.png'
 
 function Investimento(promps){
     return(
@@ -11,6 +14,14 @@ function Investimento(promps){
             <p className={style.subtitulo_investimento}>
                 Conheça as vantagens e benefícios exclusivos para cada tipo de conta
             </p>
+
+            <div className={style.imagens_investimentos}>
+                <img className={style.digital} src={Digital} alt="tabela digital" />
+                <img src={Demand} alt=" tabela on demand" />
+                <img src={Exclusiva} alt=" tabela exclusiva" />
+            </div>
+
+            <div className={style.saiba_mais}>Saiba mais</div>
         </div>
     )
 }

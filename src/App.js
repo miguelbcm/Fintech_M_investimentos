@@ -11,6 +11,9 @@ import Seta from './imagens/seta.png'
 import Celular from './imagens/celular.png'
 import Logo_pequeno from './imagens/logo_pequeno.png'
 import No_celular from './imagens/no_celular.png'
+import Digital from './imagens/digital.png'
+import Demand from './imagens/on_demand.png'
+import Exclusiva from './imagens/exclusiva_in.png'
 
 
 function App() {
