@@ -51,6 +51,12 @@
 
 }
 
+.caixa_trader1:hover{
+    background-color: #f8983e;
+    transition: 1s;
+    cursor: pointer;
+}
+
 .titulo_trader1{
     margin-top: 25px;
     font-family: 'Poppins', sans-serif;
@@ -73,12 +79,22 @@
     border-radius: 20px;
 }
 
+.caixa_trader2:hover{
+    background-color: #f8983e;
+    transition: 1s;
+    cursor: pointer;
+}
+
 .celular{
     width: 340px;
     height: 570px;
     margin-left: 12%;
     margin-top: 60px;
     margin-right: 8%;
+}
+
+.celular:hover{
+    scale: 1.0;
 }
 
 
@@ -100,12 +116,24 @@
     
 }
 
+.caixa_trader3:hover{
+    background-color: #f8983e;
+    transition: 1s;
+    cursor: pointer;
+}
+
 .caixa_trader4{
     width: 350px;
     height: 250px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), #ffffff;
     margin-top: 60px;
     border-radius: 20px;
+}
+
+.caixa_trader4:hover{
+    background-color: #f8983e;
+    transition: 1s;
+    cursor: pointer;
 }
 
 .botoes{

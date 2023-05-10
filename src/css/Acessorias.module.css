@@ -61,7 +61,7 @@
 }
 
 .ola:hover{
-    background-color: #ff7b00;
+    background-color: #ffffff;
     transition: 1s;
 }
 
@@ -82,8 +82,13 @@
 }
 
 .reuniao:hover{
-    background-color: #ff7b00;
+    background-color: #ffffff;
     transition: 1s;
+}
+
+.iframe{
+    margin-top: 60px;
+    border: none;
 }
 
 .no_celular{

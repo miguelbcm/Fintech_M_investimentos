@@ -20,7 +20,7 @@ import Icones from './imagens/icones_footer.png'
 function App() {
   return (
     <div className="App">
-
+      
       <Header />
       <Section />
       <Pioneiros />

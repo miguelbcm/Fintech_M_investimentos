@@ -26,13 +26,20 @@ header{
     margin-top: 7.3%;
     color: #fff;
     font-size: 15px;
-    font-weight: 700;
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    font-weight: 900;
+    
 }
 
+.home{
+    width: 70px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+    
 
+}
 .home:hover{
     transition: 1s;
     width: 70px;
@@ -41,52 +48,78 @@ header{
     text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
+    padding-top: 5px;
+    
 }
 
-
+.quem_somos{
+    width: 130px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+}
 .quem_somos:hover{
-    transition: 1.8s;
-    width: 140px;
+    transition: 1s;
     background-color: #E0AD00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
+    padding-top: 5px;
 }
+
+.fundos{
+    width: 80px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+}
+
 
 .fundos:hover{
     transition: 1s;
-    width: 80px;
     background-color: #E0AD00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
+    padding-top: 5px;
 }
 
+.trading{
+    width: 120px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+}
 .trading:hover{
     transition: 1s;
-    width: 120px;
     background-color: #E0AD00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
+    padding-top: 5px;
+}
+
+.aprenda{
+    width: 100px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
 }
 
 .aprenda:hover{
     transition: 1s;
-    width: 100px;
     background-color: #E0AD00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
+    padding-top: 5px;
+}
+
+.simulador{
+    width: 100px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
 }
 
 .simulador:hover{
@@ -94,10 +127,8 @@ header{
     width: 100px;
     background-color: #E0AD00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
 }
 
 .acesse{
@@ -107,6 +138,7 @@ header{
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
+    padding-top: 5px;
 }
 
 .seta{
@@ -115,29 +147,31 @@ header{
     margin-top: 7.3%;
     margin-left: 5px;
     cursor: pointer;
+    padding-top: 5px;
 }
 
+
+
 .abra{
-    width: 130px;
-    height: 33px;
+    width: 150px;
+    height: 31px;
     margin-top: 7.2%;
-    color: #fff;
+    color: #000000;
     font-size: 16px;
     font-weight: bold;
     margin-left: 4%;
     cursor: pointer;
-   
-    
+    padding-top: 5px;
+    background-color: #E0AD00;
+    border-radius: 10px;
+    text-align: center;
 }
 
 
 .abra:hover{
     transition: 1s;
-    width: 150px;
-    background-color: #E0AD00;
+    background-color: #ff7b00;
     color: #000;
-    text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    padding-top: 3px;
 }

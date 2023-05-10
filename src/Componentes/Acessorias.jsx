@@ -26,7 +26,10 @@ function Acessorias(prompt){
                     Vamos marcar nossa reunião para <br/>
                     apresentar os resultados da carteira <br/>
                     de investimentos?
+                    
                 </div>
+                
+                <iframe className={style.iframe} src="https://embed.lottiefiles.com/animation/100911"></iframe>
 
             </div>
             <img className={style.no_celular} src={No_celular} alt="homem no celular" />
